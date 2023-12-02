@@ -1,0 +1,42 @@
+.foodbox
+{
+  background-color: var(--secondary-color);
+  height: 650px;
+  padding: 20px 30px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+.foodbox img
+{
+  width: 100%;
+  padding-bottom: 20px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.foodbox h1
+{
+  color: #fff;
+  font-weight: bold;
+}
+.foodbox p
+{
+  color: #fff;
+}
+.foodbox .buybtn
+{
+  background-color: var(--primary-color);
+  text-decoration: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  border: none;
+}
+
+@media screen and (max-width: 990px) {
+  .foodbox
+  {
+    height: 100%;
+  }
+}
