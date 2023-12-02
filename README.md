@@ -1,3 +1,4 @@
+![alt text](https://github.com/SLDrago/TakeAwayFood/blob/main/src/android-chrome-192x192.png)
 # TakeAwayFood
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
